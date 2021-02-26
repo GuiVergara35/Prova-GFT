@@ -1,0 +1,16 @@
+E:\Prova GFT\EX3\obj\Debug\net5.0\EX3.csprojAssemblyReference.cache
+E:\Prova GFT\EX3\obj\Debug\net5.0\EX3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prova GFT\EX3\obj\Debug\net5.0\EX3.AssemblyInfoInputs.cache
+E:\Prova GFT\EX3\obj\Debug\net5.0\EX3.AssemblyInfo.cs
+E:\Prova GFT\EX3\obj\Debug\net5.0\EX3.csproj.CoreCompileInputs.cache
+E:\Prova GFT\EX3\bin\Debug\net5.0\EX3.exe
+E:\Prova GFT\EX3\bin\Debug\net5.0\EX3.deps.json
+E:\Prova GFT\EX3\bin\Debug\net5.0\EX3.runtimeconfig.json
+E:\Prova GFT\EX3\bin\Debug\net5.0\EX3.runtimeconfig.dev.json
+E:\Prova GFT\EX3\bin\Debug\net5.0\EX3.dll
+E:\Prova GFT\EX3\bin\Debug\net5.0\ref\EX3.dll
+E:\Prova GFT\EX3\bin\Debug\net5.0\EX3.pdb
+E:\Prova GFT\EX3\obj\Debug\net5.0\EX3.dll
+E:\Prova GFT\EX3\obj\Debug\net5.0\ref\EX3.dll
+E:\Prova GFT\EX3\obj\Debug\net5.0\EX3.pdb
+E:\Prova GFT\EX3\obj\Debug\net5.0\EX3.genruntimeconfig.cache
