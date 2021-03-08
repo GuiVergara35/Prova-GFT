@@ -3,6 +3,10 @@ namespace EX2
 {
     public class InvestimentoSemIR : Investimento
     {
+        public InvestimentoSemIR(double valorInicial, double jurosMensais) : base(valorInicial, jurosMensais)
+        {
+        }
+
         public override double calcularLucro(int meses)
         {
             if(valorInicial < 1000){

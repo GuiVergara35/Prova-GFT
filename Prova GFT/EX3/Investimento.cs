@@ -7,7 +7,7 @@ namespace EX3
         public double jurosMensais { get; set; }
 
         public virtual double calcularLucro(int meses){
-            return (valorInicial * Math.Pow(1 + jurosMensais, meses) - valorInicial);
+            return (valorInicial * (Math.Pow(1 + jurosMensais, meses)) - valorInicial);
             
         }
     }
